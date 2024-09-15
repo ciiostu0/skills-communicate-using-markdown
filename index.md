@@ -10,8 +10,10 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
+## Image of Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Example Code
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -20,3 +22,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Task List
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
